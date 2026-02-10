@@ -94,6 +94,15 @@ body {
   font-weight: 600;
   letter-spacing: -0.02em;
   color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+
+/* Headline */
+.headline {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-text-muted);
+  letter-spacing: 0.02em;
   margin-bottom: 2rem;
 }
 
